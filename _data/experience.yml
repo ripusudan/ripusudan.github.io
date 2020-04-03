@@ -7,7 +7,7 @@
    HCL Technologies Limited is an Indian multinational information technology service and consulting company
    headquartered in Noida, Uttar Pradesh. It is a subsidiary of HCL Enterprise.
   description: | # this will include new lines to allow paragraphs
-    Currentely working in HCL Technologies here i am working on Angular,NodeJS,REDIS
+    Currentely working with HCL Technologies here i am working on <mark>Angular</mark>,<mark>Node Js</mark> <mark>Redis</mark>
     
 
 - layout: left
@@ -20,7 +20,8 @@
    owned division of French advertising giant Publicis, in a deal valued at $3.7bn
   description: | # this will include new lines to allow paragraphs
     Worked in Publicis Sapient around 5 year for a leading Investement Banking Client's project.Here i workedn on various technologies 
-    like Java(8),Spring,Hibernate,ExtJS,Node,Jasmine,Protractor,Junit,Angular.
+    like <mark>Java(8)</mark>,<mark>Spring</mark>,<mark>Hibernate</mark>,<mark>ExtJS</mark>,<mark>Node</mark>,
+    <mark>Jasmine</mark>,<mark>Protractor</mark>,<mark>Junit</mark>,<mark>Angular</mark>.
     
 - layout: left
   company: Telemune Software Solutions Pvt. Ltd
