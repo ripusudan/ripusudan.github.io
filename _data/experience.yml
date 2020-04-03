@@ -1,17 +1,11 @@
 - layout: left
-  company: Telemune Software Solutions Pvt. Ltd
-  link: http://www.telemune.com/
-  job_title: Software Engineer
-  dates: 15 March 2010 - August 2014
+  company: HCL Technologies
+  link: https://www.hcltech.com/
+  job_title: Technical Specialist
+  dates: August 2019 - Present
   quote: >
-   Telemune is a software development company in Managed mobile value added services. The core expertise is mobile 2G/3G over SS7/SIP protocols.
-  description: | # this will include new lines to allow paragraphs
-    Started my carrer from this company.Worked hard to prove myself and become the reputated java debeloper.Worked on both front end
-    (HTML,CSS,JQUERY) and backend technologies(JAVA,Oracle DB,Linux Scripting).
-    I automated various applications there and develoepes some high performing application from scratch.
-    Worked on integration of new technologies.
-    
-  
+   HCL Technologies Limited is an Indian multinational information technology service and consulting company
+
 - layout: left
   company: Publicis Sapient
   link: https://www.publicissapient.com/
@@ -25,12 +19,22 @@
     like Java(8),Spring,Hibernate,ExtJS,Node,Jasmine,Protractor,Junit,Angular.
     
 - layout: left
-  company: HCL Technologies
-  link: https://www.hcltech.com/
-  job_title: Technical Specialist
-  dates: August 2019 - Present
+  company: Telemune Software Solutions Pvt. Ltd
+  link: http://www.telemune.com/
+  job_title: Software Engineer
+  dates: 15 March 2010 - August 2014
   quote: >
-   HCL Technologies Limited is an Indian multinational information technology service and consulting company
+   Telemune is a software development company in Managed mobile value added services. The core expertise is mobile 2G/3G over SS7/SIP protocols.
+  description: | # this will include new lines to allow paragraphs
+    Started my carrer from this company.Worked hard to prove myself and become the reputated java debeloper.Worked on both front end
+    (HTML,CSS,JQUERY) and backend technologies(JAVA,Oracle DB,Linux Scripting).
+    I automated various applications there and develoepes some high performing application from scratch.
+    Worked on integration of new technologies.
+    
+  
+
+    
+
    headquartered in Noida, Uttar Pradesh. It is a subsidiary of HCL Enterprise.
   description: | # this will include new lines to allow paragraphs
     Currentely working in HCL Technologies here i am working on Angular,NodeJS,REDIS
