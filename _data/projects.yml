@@ -1,5 +1,5 @@
 - layout: top-middle
   quote: >
     Listing some of the projects based on technological stacks.
-  description: |
-  "hi"
+  description: | # this will include new lines to allow paragraphs
+  hi
