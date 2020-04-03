@@ -1,4 +1,9 @@
 - layout: top-middle
-<mark>Jsp based web applications</mark> <mark>Servlet based web applications</mark> 
+  name: 
+  link: 
+  github: 
+  quote: >
+    This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+  description: | <mark>Jsp based web applications</mark> <mark>Servlet based web applications</mark> 
   <mark>REST Api</mark> <mark>Multithreaded high TPS messaging application</mark> <mark>Trading Application based on EXTJS</mark> 
   <mark>Angular based trading application</mark> 
