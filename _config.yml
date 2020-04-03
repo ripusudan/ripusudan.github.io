@@ -3,18 +3,18 @@ repository: sproogen/resume-theme
 favicon: images/favicon.ico
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Ripu Sudan Chauhan
+title: Java Full Stack Developer & MEAN Stack Developer
+email: ripu.cmos@gmail.com
+website: www.ripusudan.github.io
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+#twitter_username: facespics
+github_username:  ripusudan
 # dribbble_username: jekyll
-# facebook_username: jekyll
+facebook_username: ripusudan.chauhan
 # flickr_username: jekyll
-instagram_username: chillwildlife
+#instagram_username: chillwildlife
 linkedin_username: jameswgrant
 # pinterest_username: jekyll
 youtube_username: globalmtb
