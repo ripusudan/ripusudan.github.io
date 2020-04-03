@@ -29,8 +29,8 @@ about_content: | # this will include new lines to allow paragraphs
 
   I am most skilled in: <mark>JAVA</mark> and <mark>UI Technologies</mark>
 
-Projects Section
-projects_title: Projects
+#Projects Section
+#projects_title: Projects
 
 # Experience Section
 # experience_title: Experience
