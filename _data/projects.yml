@@ -1,11 +1,4 @@
 - layout: top-middle
   quote: >
-    Listing some of the projects based on technological stacks
-  description: | <mark>Jsp Based web applications</mark>
-  <mark>Servlet based applications</mark>
-  <mark>REST Api</mark>
-  <mark>Native javascript based applications</mark>
-  <mark>Multithreaded high TPS data processing application</mark>
-  <mark>Third party charging applications</mark>
-  <mark>Angular based trading application</mark>
-  <mark>ExtrJS based trading admin application</mark>
+    Listing some of the projects based on technological stacks.
+  description: | "hi"
