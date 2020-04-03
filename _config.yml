@@ -24,8 +24,9 @@ youtube_username: globalmtb
 # about_title: About Me
 about_profile_image: images/me.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hello, my name is Ripu Sudan Chauhan and I am a Full stack java developer and MEAN stack Developer. 
-  I majorely worked on all technologies like 
+  Hello, My name is Ripu Sudan Chauhan and I am a Full stack java developer and MEAN stack Developer. 
+  I majorely worked on both front end and backend technologies ,some of technologies which are worked on are given below.
+  <mark>JAVA(8)</mark>,<mark>ANGULAR(JS)</mark>,<mark>SPRING</mark>,<mark>HIBERNATE</mark>
 
   I am most skilled in: <mark>JAVA</mark> and <mark>UI Technologies</mark>
 
