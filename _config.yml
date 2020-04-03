@@ -37,7 +37,8 @@ about_content: | # this will include new lines to allow paragraphs
   <BR><mark>ORACLE</mark> <mark>DB2</mark> <mark>MONGODB</mark>
   <BR><mark>APACHE TOMCAT</mark>
   <BR><mark>GRADLE</mark> <mark>MAVEN</mark> <mark>ANT</mark>
-  ><BR><mark>GIT</mark> <mark>SVN</mark> 
+  <BR><mark>GIT</mark> <mark>SVN</mark> 
+  <BR><mark>ZABBIX</mark> <mark>RADIS</mark> 
  
   
  
