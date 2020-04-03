@@ -1,4 +1,6 @@
 - layout: top-middle
+  link: github.com/sproogen
+  github: sproogen/resume-theme
   quote: >
     Listing some of the projects based on technological stacks.
   description: | # this will include new lines to allow paragraphs
