@@ -32,7 +32,7 @@ about_content: | # this will include new lines to allow paragraphs
   <mark>SERVLET</mark> <mark>DESIGN PATTERN</mark> <mark>MULTI THREADING</mark> <mark>COLLECTIONS</mark> 
   <mark>HTML</mark> <mark>CSS</mark> <mark>BOOTSTRAP</mark>
   <BR><mark>JQUERY</mark> <mark>EXTJS</mark> <mark>JAVASCRIPT</mark> <mark>NODEJS</mark> <mark>EXPRESS JS</mark>
-  <BR><mark>JUNIT</mark> <mark>MOCKITO</mark> <mark>SELENIUM</mark>
+  <BR><mark>JUNIT</mark> <mark>MOCKITO</mark> <mark>SELENIUM</mark> <mark>CHAI</mark> <mark>MOCHA</mark>
   <BR><mark>SHELL SCRIPTING</mark> <mark>LINUX SCRIPTING</mark> <mark>LINUX</mark>
   <BR><mark>ORACLE</mark> <mark>DB2</mark> <mark>MONGODB</mark>
   <BR><mark>APACHE TOMCAT</mark>
