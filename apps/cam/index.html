@@ -107,15 +107,23 @@
     <!-- Grid column -->
 
   </div>
+  <hr class="my-1 mb-1 rgba-white-light">
+  </div>
   <!-- Grid row -->
 
-  <hr class="my-4 rgba-white-light">
+  
 
-  <div class="container-fluid ">
+  <div class="container-fluid my-1 py-1 ">
     <!--Row with two equal columns-->
+	<div class="row my-0 py-0">
+	 <div class="col">
+	 <p class="text-white">Choose Sensitivity </p>
+ <input type="range" class="custom-range" id="customRange" oninput="sliderChange(this.value)">
+	 </div>
+	</div>
     <div class="row justify-content-center">
      
-     <div class="col-md-4 ">
+     <div class="col-md-4">
       
 	  <video id="video" width="300" height="200">
 	  
@@ -123,9 +131,8 @@
     </div>
 	
 	</div>
-	<p class="text-white">Choose Sensitivity </p>
- <input type="range" class="custom-range" id="customRange" oninput="sliderChange(this.value)">
-</div>
+	
+
 <!-- Jumbotron -->
   
 
