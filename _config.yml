@@ -24,6 +24,7 @@ medium_username: jekyll
 # about_title: About Me
 about_profile_image: images/me.jpg
 about_content: | # this will include new lines to allow paragraphs
+   
    >Hi <mark>Ripu Sudan Chauhan</mark> here , I am a <mark>Software developer</mark> who loves coding to solving real world problems.
   <mark>I makes computers intelligent by giving them Algorithms</mark>. I am a <mark>Full Stack Java Developer</mark>.
   
