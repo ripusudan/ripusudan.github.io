@@ -24,11 +24,17 @@ medium_username: jekyll
 # about_title: About Me
 about_profile_image: images/me.jpg
 about_content: | # this will include new lines to allow paragraphs
-  >Hay, This is Ripu Sudan Chauhan ,who love coding and solving problems.I makes computers intelligent by giving them Algorithms. I am a Full stack java developer.
-  Now a days i am working on NODE JS => Hence i knows trending JS => JS can make mobile app(i was excited!!) Learned REACT JS.
+   Hi :wave:, 
+  `Ripu Sudan Chauhan` here , I am a `Software developer` :computer: who loves coding to solving real world problems.
+  
+  `I makes computers intelligent by giving them Algorithms` 📚. I am a `Full Stack Java Developer` :beer:.
+  
+  I love to Read New Technologies In Computer programming. Now a days i am learning on `NODE JS`,`REACT`.
+  
   I have worked on both front end and backend technologies as shown below.
-  ![image](https://user-images.githubusercontent.com/1003805/154479879-cf39bdc2-4b37-40df-b8aa-90654575e79f.png)
-  `https://www.buymeacoffee.com/ripucmosz`
+  
+  ## You can support me by Buy Me A Coffee
+  <a href="https://www.buymeacoffee.com/ripucmosz"><img align="center" src="https://user-images.githubusercontent.com/1003805/154479879-cf39bdc2-4b37-40df-b8aa-   90654575e79f.png" alt="drawing" width="200"/></a>
   
 
   <mark>JAVA(8)</mark> <mark>ANGULAR(JS)</mark> <mark>SPRING(REST+BOOT+BTACH)</mark> <mark>HIBERNATE</mark> <mark>JSP</mark>
