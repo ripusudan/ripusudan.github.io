@@ -25,11 +25,10 @@ medium_username: jekyll
 about_profile_image: images/me.jpg
 about_content: | # this will include new lines to allow paragraphs
    Hi :wave:, 
-  `Ripu Sudan Chauhan` here , I am a `Software developer` :computer: who loves coding to solving real world problems.
+  <mark>Ripu Sudan Chauhan</mark> here , I am a <mark>Software developer</mark> :computer: who loves coding to solving real world problems.
+  <mark>I makes computers intelligent by giving them Algorithms</mark> 📚. I am a <mark>Full Stack Java Developer</mark> :beer:.
   
-  `I makes computers intelligent by giving them Algorithms` 📚. I am a `Full Stack Java Developer` :beer:.
-  
-  I love to Read New Technologies In Computer programming. Now a days i am learning on `NODE JS`,`REACT`.
+  I love to Read New Technologies In Computer programming. Now a days i am learning on <mark>NODE JS</mark>,<mark>REACT</mark>.
   
   I have worked on both front end and backend technologies as shown below.
   
