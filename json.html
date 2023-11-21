@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+			<meta name="viewport" content="width=device-width, initial-scale=1.0">
+				<title>JSON Samples</title>
+				<style>
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 20px;
+    }
+
+    table, th, td {
+      border: 1px solid black;
+    }
+
+    th, td {
+      padding: 10px;
+      text-align: left;
+    }
+
+    th {
+      background-color: #f2f2f2;
+    }
+  </style>
+			</head>
+			<body>
+				<h1>JSON Samples</h1>
+				<!-- Table to display JSON samples -->
+				<table>
+					<thead>
+						<tr>
+							<th>ID</th>
+							<th>Description</th>
+							<th>Sample JSON</th>
+							<th>Link</th>
+							<th>Copy Link</th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+							<td>1</td>
+							<td>Simple JSON Object</td>
+							<td>{
+  "name": "John Doe",
+  "age": 25,
+  "city": "Exampleville",
+  "isStudent": false
+}
+</td>
+							<td>
+								<a href="https://raw.githubusercontent.com/ripusudan/json/main/json_object.json" target="_blank">Link</a>
+							</td>
+							<td>
+								<button class="copy-link-btn" onclick="copyToClipboard('https://raw.githubusercontent.com/ripusudan/json/main/json_object.json')">Copy</button>
+							</td>
+						</tr>
+						
+						<tr>
+							<td>2</td>
+							<td>JSON Array</td>
+							<td>[
+  { "name": "Alice", "age": 30 },
+  { "name": "Bob", "age": 28 },
+  { "name": "Charlie", "age": 35 }
+]
+
+</td>
+							<td>
+								<a href="https://raw.githubusercontent.com/ripusudan/json/main/json_array.json" target="_blank">Link</a>
+							</td>
+							<td>
+								<button class="copy-link-btn" onclick="copyToClipboard('https://raw.githubusercontent.com/ripusudan/json/main/json_array.json')">Copy</button>
+							</td>
+						</tr>
+						
+						<tr>
+							<td>3</td>
+							<td>Nested JSON Objects</td>
+							<td>{
+  "person": {
+    "name": "Eve",
+    "age": 22,
+    "address": {
+      "city": "Wonderland",
+      "country": "Fictionland"
+    }
+  }
+}
+
+
+</td>
+							<td>
+								<a href="https://raw.githubusercontent.com/ripusudan/json/main/nested_json_object.json" target="_blank">Link</a>
+							</td>
+							<td>
+								<button class="copy-link-btn" onclick="copyToClipboard('https://raw.githubusercontent.com/ripusudan/json/main/nested_json_object.json')">Copy</button>
+							</td>
+						</tr>
+						<tr>
+							<td>4</td>
+							<td>JSON Array of Objects with Different DataTypes</td>
+							<td>[
+  { "name": "David", "age": 27, "isStudent": true },
+  { "name": "Emily", "age": 32, "isStudent": false, "grades": [85, 90, 78] },
+  { "name": "Frank", "age": 40, "isStudent": false, "location": null }
+]
+
+
+
+</td>
+							<td>
+								<a href="https://raw.githubusercontent.com/ripusudan/json/main/json_array_of_object_datatype.json" target="_blank">Link</a>
+							</td>
+							<td>
+								<button class="copy-link-btn" onclick="copyToClipboard('https://raw.githubusercontent.com/ripusudan/json/main/json_array_of_object_datatype.json')">Copy</button>
+							</td>
+						</tr>
+						
+						
+								<tr>
+							<td>5</td>
+							<td>JSON with Dates</td>
+							<td>{
+  "event": "Conference",
+  "date": "2023-11-30T09:00:00.000Z",
+  "location": "Tech Center"
+}
+
+
+
+
+</td>
+							<td>
+								<a href="https://raw.githubusercontent.com/ripusudan/json/main/json_with_date.json" target="_blank">Link</a>
+							</td>
+							<td>
+								<button class="copy-link-btn" onclick="copyToClipboard('https://raw.githubusercontent.com/ripusudan/json/main/json_with_date.json')">Copy</button>
+							</td>
+						</tr>
+						
+						<tr>
+							<td>6</td>
+							<td>JSON with Arrays of Strings</td>
+							<td>{
+  "colors": ["red", "green", "blue"],
+  "fruits": ["apple", "banana", "orange"]
+}
+
+
+
+
+
+</td>
+							<td>
+								<a href="https://raw.githubusercontent.com/ripusudan/json/main/json_array_string.json" target="_blank">Link</a>
+							</td>
+							<td>
+								<button class="copy-link-btn" onclick="copyToClipboard('https://raw.githubusercontent.com/ripusudan/json/main/json_array_string.json')">Copy</button>
+							</td>
+						</tr>
+						
+						<tr>
+							<td>7</td>
+							<td>JSON with Nested Arrays</td>
+							<td>{
+  "matrix": [
+    [1, 2, 3],
+    [4, 5, 6],
+    [7, 8, 9]
+  ]
+}
+
+</td>
+							<td>
+								<a href="https://raw.githubusercontent.com/ripusudan/json/main/json_nested_array.json" target="_blank">Link</a>
+							</td>
+							<td>
+								<button class="copy-link-btn" onclick="copyToClipboard('https://raw.githubusercontent.com/ripusudan/json/main/json_nested_array.json')">Copy</button>
+							</td>
+						</tr>
+						
+						
+						<!-- Add more rows for other JSON samples -->
+					</tbody>
+				</table>
+				<script>
+    function copyToClipboard(text) {
+      // Create a temporary input element
+      const input = document.createElement('input');
+      input.value = text;
+
+      // Append the input element to the document
+      document.body.appendChild(input);
+
+      // Select the input value
+      input.select();
+      input.setSelectionRange(0, 99999); // For mobile devices
+
+      // Copy the selected text
+      document.execCommand('copy');
+
+      // Remove the temporary input element
+      document.body.removeChild(input);
+    }
+  </script>
+				<!-- Add more rows as needed -->
+			</body>
+		</html>
